@@ -1,0 +1,1 @@
+(function($){$(document).ready(function(){$('.wpmicons-set').each(function(){var iposition=$(this).attr('data-iposition');if(!$(this).closest('li').hasClass('wpmi-iposition-'+iposition)){$(this).closest('li').addClass('wpmi-each-menu-item wpmi-iposition-'+iposition)}})})}(jQuery))

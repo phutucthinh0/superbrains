@@ -1,7 +1,7 @@
 {
     "name": "waodate",
     "short_name": "waodate",
-    "start_url": ".",
+    "start_url": "./waodate",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
